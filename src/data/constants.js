@@ -261,7 +261,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/golubhattuk01/frontend_ChitChat",
-    webapp: "https://voluble-smakager-e0f440.netlify.app/",
+    webapp: "https://frontend-chit-chat-stui-auhimlosw-golubhattuk01s-projects.vercel.app/",
     member: [
       {
         name: "Gaurav Bhatt",
