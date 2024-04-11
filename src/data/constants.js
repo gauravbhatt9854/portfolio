@@ -216,7 +216,7 @@ export const education = [
     school: "Galgotias University Greater Noida",
     date: "Oct 2022 - Sep 2026",
     grade: "on Going",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Galgotias University, Greater Noida. I have completed 2 semesters and have a CGPA of 9.5. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, and Computer Networks, among others. I am also a member of the TechnoJam at Galgotias University, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Galgotias University, Greater Noida. I have completed 3 semesters and have a CGPA of 9.5. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, and Computer Networks, among others. I am also a member of the TechnoJam at Galgotias University, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
