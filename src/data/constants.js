@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/golubhattuk01",
   resume:
-    "https://drive.google.com/file/d/1jgZiWkOzavlsTeiGPIldA7v0KBdgg1Kx/view?usp=drivesdk",
+    "https://drive.google.com/file/d/112mKGF6FLwukA0mzI3mLx6_-U9CMWcnB/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/golubhattuk01/",
   twitter: "https://twitter.com/golubhattuk01",
   insta: "https://www.instagram.com/golubhattuk01/",
@@ -261,7 +261,8 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/golubhattuk01/frontend_ChitChat",
-    webapp: "https://frontend-chit-chat-stui-auhimlosw-golubhattuk01s-projects.vercel.app/",
+    webapp:
+      "https://frontend-chit-chat-stui-auhimlosw-golubhattuk01s-projects.vercel.app/",
     member: [
       {
         name: "Gaurav Bhatt",
