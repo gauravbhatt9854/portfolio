@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/golubhattuk01",
   resume:
-    "https://drive.google.com/file/d/17eZG1zIJWDgJU-8Wj500dNa8F2rp9c0i/view?usp=sharing",
+    "https://drive.google.com/file/d/1q_3P_PnhVj86_Lx662JPbZoQwSNQ3FAJ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/golubhattuk01/",
   twitter: "https://twitter.com/golubhattuk01",
   insta: "https://www.instagram.com/golubhattuk01/",
