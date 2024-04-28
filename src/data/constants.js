@@ -261,8 +261,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/golubhattuk01/frontend_ChitChat",
-    webapp:
-      "https://frontend-chit-chat-stui-auhimlosw-golubhattuk01s-projects.vercel.app/",
+    webapp: "https://frontend-chit-chat-stui.vercel.app/",
     member: [
       {
         name: "Gaurav Bhatt",
@@ -303,7 +302,7 @@ export const projects = [
     tags: ["React Js"],
     category: "web app",
     github: "https://github.com/golubhattuk01/Todo_app",
-    webapp: "https://golubhattuk01.github.io/Todo_app/",
+    webapp: "https://monumental-banoffee-294243.netlify.app/",
   },
 ];
 
