@@ -292,7 +292,7 @@ export const projects = [
     title: "Interactive Chatbot",
     date: "2024",
     description:
-      "Developed an AI-driven chatbot for real-time interaction using voice commands. Integrated Whisper API for advanced speech recognition and Gemini API for image and text processing. Implemented Browser Speech Recognition API for hands-free interactions and voice-based control. Added webcam functionality for live image capture and upload with real-time processing. Built the frontend with React and Tailwind, and the backend with Python, Flask, and Torch. Enabled real-time analytics for monitoring user inputs and providing personalized feedback.",
+      "As a full-stack developer on an interactive AI-driven chatbot project, I contributed to both the frontend and backend, ensuring seamless integration between the user interface and backend APIs for real-time interactions and data processing. I developed a voice-controlled AI chatbot for real-time communication, utilizing the Gemini API to fetch data and process images on the backend. The project also incorporated the Browser Speech Recognition API, enabling hands-free interactions through voice control, and webcam functionality for live image capture and processing. I built the frontend using React and Tailwind, while the backend was implemented with Python and Flask.",
     image:
       "https://raw.githubusercontent.com/golubhattuk01/SIH-2024/main/frontend/src/components/card2.png",
     tags: [
