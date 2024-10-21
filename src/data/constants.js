@@ -277,7 +277,7 @@ export const projects = [
     tags: ["MERN Stack", "Socket.io", "React Leaflet", "Auth0", "Tailwind CSS"],
     category: "web app",
     github: "https://github.com/golubhattuk01/SOCKET-F-END",
-    webapp: "",
+    webapp: "https://socket-f-end.vercel.app/",
     member: [
       {
         name: "Gaurav Bhatt",
@@ -306,7 +306,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/golubhattuk01/SIH-2024",
-    webapp: "",
+    webapp: "https://github.com/golubhattuk01/SIH-2024",
   },
 ];
 
