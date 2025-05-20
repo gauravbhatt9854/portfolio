@@ -1,5 +1,5 @@
 # Use a specific version of Node.js as the base image
-FROM node:18
+FROM node:20
 
 # Set the working directory in the container
 WORKDIR /myuser
