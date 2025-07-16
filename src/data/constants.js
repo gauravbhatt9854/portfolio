@@ -3,13 +3,13 @@ export const Bio = {
   roles: ["Full Stack Developer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/golubhattuk01",
+  github: "https://github.com/gauravbhatt9854",
   resume:
     "https://drive.google.com/file/d/1SldXQV-shzLM8t9aKdffI3-cEXY04oSi/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/golubhattuk01/",
-  twitter: "https://twitter.com/golubhattuk01",
-  // insta: "https://www.instagram.com/golubhattuk01/",
-  // facebook: "https://www.facebook.com/golubhattuk01/",
+  linkedin: "https://www.linkedin.com/in/gauravbhatt9854/",
+  twitter: "https://twitter.com/gauravbhatt9854",
+  // insta: "https://www.instagram.com/gauravbhatt9854/",
+  // facebook: "https://www.facebook.com/gauravbhatt9854/",
 };
 
 export const skills = [
@@ -240,7 +240,7 @@ export const projects = [
     title: "ChitChat",
     date: "Dec 2023 - Jan 2024",
     description:
-      ".ChitChat is more than just a messaging app; it's a dynamic space where connections flourish and conversations thrive. Download ChitChat now and start experiencing the next level of social interaction!It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Username: golubhattuk01 #Password- 120, Employee Credentials:	#Email: dpk01	#Password- 120",
+      ".ChitChat is more than just a messaging app; it's a dynamic space where connections flourish and conversations thrive. Download ChitChat now and start experiencing the next level of social interaction!It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Username: gauravbhatt9854 #Password- 120, Employee Credentials:	#Email: dpk01	#Password- 120",
     image:
       "https://res.cloudinary.com/drqcugtxy/image/upload/v1705829202/Screenshot_2024-01-11_024439_dkzhxi.png",
     tags: [
@@ -253,14 +253,14 @@ export const projects = [
       "Express Js",
     ],
     category: "web app",
-    github: "https://github.com/golubhattuk01/frontend_ChitChat",
+    github: "https://github.com/gauravbhatt9854/frontend_ChitChat",
     webapp: "https://frontend-chit-chat-stui.vercel.app/",
     member: [
       {
         name: "Gaurav Bhatt",
         img: "https://res.cloudinary.com/drqcugtxy/image/upload/v1704523497/bu2yiywbjg14t0t4x7or.jpg",
-        linkedin: "https://www.linkedin.com/in/golubhattuk01/",
-        github: "https://github.com/golubhattuk01",
+        linkedin: "https://www.linkedin.com/in/gauravbhatt9854/",
+        github: "https://github.com/gauravbhatt9854",
       },
     ],
   },
@@ -271,17 +271,17 @@ export const projects = [
     description:
       "Created a real-time chat application using Socket.io that does not store chat history. Integrated Google-based user authentication with Auth0. Deployed React Leaflet to visualize user locations with names and profile images. Provided multiple map view options (street, satellite) to enhance user interaction. The frontend is built with React and Tailwind CSS, and the backend is developed in Node.js, deployed on Vercel.",
     image:
-      "https://raw.githubusercontent.com/golubhattuk01/SOCKET-F-END/main/public/images/Screenshot%202024-08-28%20181347.png",
+      "https://raw.githubusercontent.com/gauravbhatt9854/SOCKET-F-END/main/public/images/Screenshot%202024-08-28%20181347.png",
     tags: ["MERN Stack", "Socket.io", "React Leaflet", "Auth0", "Tailwind CSS"],
     category: "web app",
-    github: "https://github.com/golubhattuk01/SOCKET-F-END",
+    github: "https://github.com/gauravbhatt9854/SOCKET-F-END",
     webapp: "https://socket-f-end.vercel.app/",
     member: [
       {
         name: "Gaurav Bhatt",
         img: "https://res.cloudinary.com/drqcugtxy/image/upload/v1704523497/bu2yiywbjg14t0t4x7or.jpg",
-        linkedin: "https://www.linkedin.com/in/golubhattuk01/",
-        github: "https://github.com/golubhattuk01",
+        linkedin: "https://www.linkedin.com/in/gauravbhatt9854/",
+        github: "https://github.com/gauravbhatt9854",
       },
     ],
   },
@@ -292,7 +292,7 @@ export const projects = [
     description:
       "As a full-stack developer on an interactive AI-driven chatbot project, I contributed to both the frontend and backend, ensuring seamless integration between the user interface and backend APIs for real-time interactions and data processing. I developed a voice-controlled AI chatbot for real-time communication, utilizing the Gemini API to fetch data and process images on the backend. The project also incorporated the Browser Speech Recognition API, enabling hands-free interactions through voice control, and webcam functionality for live image capture and processing. I built the frontend using React and Tailwind, while the backend was implemented with Python and Flask.",
     image:
-      "https://raw.githubusercontent.com/golubhattuk01/SIH-2024/main/frontend/src/components/card2.png",
+      "https://raw.githubusercontent.com/gauravbhatt9854/SIH-2024/main/frontend/src/components/card2.png",
     tags: [
       "React",
       "Tailwind",
@@ -303,8 +303,8 @@ export const projects = [
       "Whisper API",
     ],
     category: "web app",
-    github: "https://github.com/golubhattuk01/SIH-2024",
-    webapp: "https://github.com/golubhattuk01/SIH-2024",
+    github: "https://github.com/gauravbhatt9854/SIH-2024",
+    webapp: "https://github.com/gauravbhatt9854/SIH-2024",
   },
 ];
 
